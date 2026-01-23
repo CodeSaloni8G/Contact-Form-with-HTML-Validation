@@ -1,24 +1,31 @@
-Contact-Form-with-HTML-Validation
+# 📩 Contact Form with HTML Validation
+
+A simple, clean, and responsive **Contact Form** built using **HTML5 & CSS3**.  
+This project focuses on **client-side validation using HTML5 attributes**, without using JavaScript.
 
 ---
 
-##Description
-This project is a simple contact form built using HTML and CSS. It uses HTML5 validation attributes without JavaScript.
+## Live Demo
+Link:
 
 ---
 
-##Live Demo
-Link: 
+## ✨ Features
 
-##Features
-Required field validation
-Email and phone number validation
-Accessible labels
-Clean and responsive UI
+✅ Required field validation  
+📧 Email validation using HTML5  
+📞 Phone number validation with pattern  
+♿ Accessible labels for better usability  
+📱 Responsive & clean UI  
+🚫 No JavaScript used (Pure HTML & CSS)
 
 ---
 
-##Tools Used
-HTML5
-CSS3
-VS Code 
+## 🛠️ Technologies Used
+
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 💻 **VS Code**
+
+
+
