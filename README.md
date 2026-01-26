@@ -1,4 +1,4 @@
-# 📩 Contact Form with HTML Validation
+# Contact Form with HTML Validation 📩 
 
 A simple, clean, and responsive **Contact Form** built using **HTML5 & CSS3**.  
 This project focuses on **client-side validation using HTML5 attributes**, without using JavaScript.
@@ -6,11 +6,11 @@ This project focuses on **client-side validation using HTML5 attributes**, witho
 ---
 
 ## Live Demo
-Link: https://contact-form-with-html-validation.vercel.app/
+- Link: https://contact-form-with-html-validation.vercel.app/
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Required field validation  
 📧 Email validation using HTML5  
@@ -21,7 +21,7 @@ Link: https://contact-form-with-html-validation.vercel.app/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - 🌐 **HTML5**
 - 🎨 **CSS3**
