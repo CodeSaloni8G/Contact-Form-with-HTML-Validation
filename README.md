@@ -1,5 +1,6 @@
 # Contact Form with HTML Validation 📩 
 
+## About the Project
 A simple, clean, and responsive **Contact Form** built using **HTML5 & CSS3**.  
 This project focuses on **client-side validation using HTML5 attributes**, without using JavaScript.
 
